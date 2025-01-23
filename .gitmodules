@@ -151,3 +151,33 @@
 [submodule "html_and_css_fundamentals/goit-markup-hw-06"]
 	path = html_and_css_fundamentals/goit-markup-hw-06
 	url = https://github.com/serg-backend-developer/goit-markup-hw-06
+[submodule "basic_algorithms_and_data_structures/goit-algo-fp"]
+	path = basic_algorithms_and_data_structures/goit-algo-fp
+	url = https://github.com/serg-backend-developer/goit-algo-fp
+[submodule "basic_algorithms_and_data_structures/goit-algo-hw-02"]
+	path = basic_algorithms_and_data_structures/goit-algo-hw-02
+	url = https://github.com/serg-backend-developer/goit-algo-hw-02
+[submodule "basic_algorithms_and_data_structures/goit-algo-hw-03"]
+	path = basic_algorithms_and_data_structures/goit-algo-hw-03
+	url = https://github.com/serg-backend-developer/goit-algo-hw-03
+[submodule "basic_algorithms_and_data_structures/goit-algo-hw-04"]
+	path = basic_algorithms_and_data_structures/goit-algo-hw-04
+	url = https://github.com/serg-backend-developer/goit-algo-hw-04
+[submodule "basic_algorithms_and_data_structures/goit-algo-hw-05"]
+	path = basic_algorithms_and_data_structures/goit-algo-hw-05
+	url = https://github.com/serg-backend-developer/goit-algo-hw-05
+[submodule "basic_algorithms_and_data_structures/goit-algo-hw-06"]
+	path = basic_algorithms_and_data_structures/goit-algo-hw-06
+	url = https://github.com/serg-backend-developer/goit-algo-hw-06
+[submodule "basic_algorithms_and_data_structures/goit-algo-hw-07"]
+	path = basic_algorithms_and_data_structures/goit-algo-hw-07
+	url = https://github.com/serg-backend-developer/goit-algo-hw-07
+[submodule "basic_algorithms_and_data_structures/goit-algo-hw-08"]
+	path = basic_algorithms_and_data_structures/goit-algo-hw-08
+	url = https://github.com/serg-backend-developer/goit-algo-hw-08
+[submodule "basic_algorithms_and_data_structures/goit-algo-hw-09"]
+	path = basic_algorithms_and_data_structures/goit-algo-hw-09
+	url = https://github.com/serg-backend-developer/goit-algo-hw-09
+[submodule "basic_algorithms_and_data_structures/goit-algo-hw-10"]
+	path = basic_algorithms_and_data_structures/goit-algo-hw-10
+	url = https://github.com/serg-backend-developer/goit-algo-hw-10
