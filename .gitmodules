@@ -109,3 +109,27 @@
 [submodule "advanced_js_and_ts/goit-advancedjs-hw-07"]
 	path = advanced_js_and_ts/goit-advancedjs-hw-07
 	url = https://github.com/serg-backend-developer/goit-advancedjs-hw-07
+[submodule "js_fundamentals/goit-js-hw-01"]
+	path = js_fundamentals/goit-js-hw-01
+	url = https://github.com/serg-backend-developer/goit-js-hw-01
+[submodule "js_fundamentals/goit-js-hw-02"]
+	path = js_fundamentals/goit-js-hw-02
+	url = https://github.com/serg-backend-developer/goit-js-hw-02
+[submodule "js_fundamentals/goit-js-hw-03"]
+	path = js_fundamentals/goit-js-hw-03
+	url = https://github.com/serg-backend-developer/goit-js-hw-03
+[submodule "js_fundamentals/goit-js-hw-04"]
+	path = js_fundamentals/goit-js-hw-04
+	url = https://github.com/serg-backend-developer/goit-js-hw-04
+[submodule "js_fundamentals/goit-js-hw-05"]
+	path = js_fundamentals/goit-js-hw-05
+	url = https://github.com/serg-backend-developer/goit-js-hw-05
+[submodule "js_fundamentals/goit-js-hw-06"]
+	path = js_fundamentals/goit-js-hw-06
+	url = https://github.com/serg-backend-developer/goit-js-hw-06
+[submodule "js_fundamentals/goit-js-hw-07"]
+	path = js_fundamentals/goit-js-hw-07
+	url = https://github.com/serg-backend-developer/goit-js-hw-07
+[submodule "js_fundamentals/goit-js-hw-08"]
+	path = js_fundamentals/goit-js-hw-08
+	url = https://github.com/serg-backend-developer/goit-js-hw-08
