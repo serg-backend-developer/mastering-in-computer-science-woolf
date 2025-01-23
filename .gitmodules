@@ -64,3 +64,27 @@
 [submodule "relational_databases_concepts_and_techniques/goit-rdb-fp"]
 	path = relational_databases_concepts_and_techniques/goit-rdb-fp
 	url = https://github.com/serg-backend-developer/goit-rdb-fp
+[submodule "mastering_frontend_development_with_react/goit-neo-react-hw-01"]
+	path = mastering_frontend_development_with_react/goit-neo-react-hw-01
+	url = https://github.com/serg-backend-developer/goit-neo-react-hw-01
+[submodule "mastering_frontend_development_with_react/goit-neo-react-hw-module2"]
+	path = mastering_frontend_development_with_react/goit-neo-react-hw-module2
+	url = https://github.com/serg-backend-developer/goit-neo-react-hw-module2
+[submodule "mastering_frontend_development_with_react/goit-neo-react-hw-module3"]
+	path = mastering_frontend_development_with_react/goit-neo-react-hw-module3
+	url = https://github.com/serg-backend-developer/goit-neo-react-hw-module3
+[submodule "mastering_frontend_development_with_react/goit-neo-react-hw-module4"]
+	path = mastering_frontend_development_with_react/goit-neo-react-hw-module4
+	url = https://github.com/serg-backend-developer/goit-neo-react-hw-module4
+[submodule "mastering_frontend_development_with_react/goit-neo-react-hw-module5"]
+	path = mastering_frontend_development_with_react/goit-neo-react-hw-module5
+	url = https://github.com/serg-backend-developer/goit-neo-react-hw-module5
+[submodule "mastering_frontend_development_with_react/goit-neo-react-hw-module6"]
+	path = mastering_frontend_development_with_react/goit-neo-react-hw-module6
+	url = https://github.com/serg-backend-developer/goit-neo-react-hw-module6
+[submodule "mastering_frontend_development_with_react/goit-neo-react-hw-module7"]
+	path = mastering_frontend_development_with_react/goit-neo-react-hw-module7
+	url = https://github.com/serg-backend-developer/goit-neo-react-hw-module7
+[submodule "mastering_frontend_development_with_react/tt_campers"]
+	path = mastering_frontend_development_with_react/tt_campers
+	url = https://github.com/serg-backend-developer/tt_campers
