@@ -1,0 +1,3 @@
+[submodule "design_and_analysis_of_algorithms/goit-algo2-hw-01"]
+	path = design_and_analysis_of_algorithms/goit-algo2-hw-01
+	url = https://github.com/serg-backend-developer/goit-algo2-hw-01.git
