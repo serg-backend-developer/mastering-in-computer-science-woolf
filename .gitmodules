@@ -181,3 +181,12 @@
 [submodule "basic_algorithms_and_data_structures/goit-algo-hw-10"]
 	path = basic_algorithms_and_data_structures/goit-algo-hw-10
 	url = https://github.com/serg-backend-developer/goit-algo-hw-10
+[submodule "python_programming_fundamentals/goitneo-python-hw-1-group-10"]
+	path = python_programming_fundamentals/goitneo-python-hw-1-group-10
+	url = https://github.com/serg-backend-developer/goitneo-python-hw-1-group-10
+[submodule "python_programming_fundamentals/goitneo-python-hw-2-group-10"]
+	path = python_programming_fundamentals/goitneo-python-hw-2-group-10
+	url = https://github.com/serg-backend-developer/goitneo-python-hw-2-group-10
+[submodule "python_programming_fundamentals/goitneo-python-hw-3-group-10"]
+	path = python_programming_fundamentals/goitneo-python-hw-3-group-10
+	url = https://github.com/serg-backend-developer/goitneo-python-hw-3-group-10
