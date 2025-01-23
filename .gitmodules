@@ -4,3 +4,21 @@
 [submodule "design_and_analysis_of_algorithms/goit-algo2-hw-02"]
 	path = design_and_analysis_of_algorithms/goit-algo2-hw-02
 	url = https://github.com/serg-backend-developer/goit-algo2-hw-02.git
+[submodule "design_and_analysis_of_algorithms/goit-algo2-hw-03"]
+	path = design_and_analysis_of_algorithms/goit-algo2-hw-03
+	url = https://github.com/serg-backend-developer/goit-algo2-hw-03
+[submodule "design_and_analysis_of_algorithms/goit-algo2-hw-04"]
+	path = design_and_analysis_of_algorithms/goit-algo2-hw-04
+	url = https://github.com/serg-backend-developer/goit-algo2-hw-04
+[submodule "design_and_analysis_of_algorithms/goit-algo2-hw-05"]
+	path = design_and_analysis_of_algorithms/goit-algo2-hw-05
+	url = https://github.com/serg-backend-developer/goit-algo2-hw-05
+[submodule "design_and_analysis_of_algorithms/goit-algo2-hw-06"]
+	path = design_and_analysis_of_algorithms/goit-algo2-hw-06
+	url = https://github.com/serg-backend-developer/goit-algo2-hw-06
+[submodule "design_and_analysis_of_algorithms/goit-algo2-hw-07"]
+	path = design_and_analysis_of_algorithms/goit-algo2-hw-07
+	url = https://github.com/serg-backend-developer/goit-algo2-hw-07
+[submodule "design_and_analysis_of_algorithms/goit-algo2-hw-08"]
+	path = design_and_analysis_of_algorithms/goit-algo2-hw-08
+	url = https://github.com/serg-backend-developer/goit-algo2-hw-08
