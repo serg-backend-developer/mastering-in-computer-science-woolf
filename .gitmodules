@@ -22,3 +22,27 @@
 [submodule "design_and_analysis_of_algorithms/goit-algo2-hw-08"]
 	path = design_and_analysis_of_algorithms/goit-algo2-hw-08
 	url = https://github.com/serg-backend-developer/goit-algo2-hw-08
+[submodule "fullstack_web_development_with_python/goit-pythonweb-hw-01"]
+	path = fullstack_web_development_with_python/goit-pythonweb-hw-01
+	url = https://github.com/serg-backend-developer/goit-pythonweb-hw-01
+[submodule "fullstack_web_development_with_python/goit-pythonweb-hw-02"]
+	path = fullstack_web_development_with_python/goit-pythonweb-hw-02
+	url = https://github.com/serg-backend-developer/goit-pythonweb-hw-02
+[submodule "fullstack_web_development_with_python/goit-pythonweb-hw-03"]
+	path = fullstack_web_development_with_python/goit-pythonweb-hw-03
+	url = https://github.com/serg-backend-developer/goit-pythonweb-hw-03
+[submodule "fullstack_web_development_with_python/goit-pythonweb-hw-04"]
+	path = fullstack_web_development_with_python/goit-pythonweb-hw-04
+	url = https://github.com/serg-backend-developer/goit-pythonweb-hw-04
+[submodule "fullstack_web_development_with_python/goit-pythonweb-hw-06"]
+	path = fullstack_web_development_with_python/goit-pythonweb-hw-06
+	url = https://github.com/serg-backend-developer/goit-pythonweb-hw-06
+[submodule "fullstack_web_development_with_python/goit-pythonweb-hw-08"]
+	path = fullstack_web_development_with_python/goit-pythonweb-hw-08
+	url = https://github.com/serg-backend-developer/goit-pythonweb-hw-08
+[submodule "fullstack_web_development_with_python/goit-pythonweb-hw-10"]
+	path = fullstack_web_development_with_python/goit-pythonweb-hw-10
+	url = https://github.com/serg-backend-developer/goit-pythonweb-hw-10
+[submodule "fullstack_web_development_with_python/goit-pythonweb-hw-012"]
+	path = fullstack_web_development_with_python/goit-pythonweb-hw-012
+	url = https://github.com/serg-backend-developer/goit-pythonweb-hw-012
