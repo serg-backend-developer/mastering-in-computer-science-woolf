@@ -46,3 +46,21 @@
 [submodule "fullstack_web_development_with_python/goit-pythonweb-hw-012"]
 	path = fullstack_web_development_with_python/goit-pythonweb-hw-012
 	url = https://github.com/serg-backend-developer/goit-pythonweb-hw-012
+[submodule "relational_databases_concepts_and_techniques/goit-rdb-hw-02"]
+	path = relational_databases_concepts_and_techniques/goit-rdb-hw-02
+	url = https://github.com/serg-backend-developer/goit-rdb-hw-02
+[submodule "relational_databases_concepts_and_techniques/goit-rdb-hw-03"]
+	path = relational_databases_concepts_and_techniques/goit-rdb-hw-03
+	url = https://github.com/serg-backend-developer/goit-rdb-hw-03
+[submodule "relational_databases_concepts_and_techniques/goit-rdb-hw-04"]
+	path = relational_databases_concepts_and_techniques/goit-rdb-hw-04
+	url = https://github.com/serg-backend-developer/goit-rdb-hw-04
+[submodule "relational_databases_concepts_and_techniques/goit-rdb-hw-05"]
+	path = relational_databases_concepts_and_techniques/goit-rdb-hw-05
+	url = https://github.com/serg-backend-developer/goit-rdb-hw-05
+[submodule "relational_databases_concepts_and_techniques/goit-rdb-hw-07"]
+	path = relational_databases_concepts_and_techniques/goit-rdb-hw-07
+	url = https://github.com/serg-backend-developer/goit-rdb-hw-07
+[submodule "relational_databases_concepts_and_techniques/goit-rdb-fp"]
+	path = relational_databases_concepts_and_techniques/goit-rdb-fp
+	url = https://github.com/serg-backend-developer/goit-rdb-fp
