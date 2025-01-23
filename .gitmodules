@@ -133,3 +133,21 @@
 [submodule "js_fundamentals/goit-js-hw-08"]
 	path = js_fundamentals/goit-js-hw-08
 	url = https://github.com/serg-backend-developer/goit-js-hw-08
+[submodule "html_and_css_fundamentals/goit-markup-hw-01"]
+	path = html_and_css_fundamentals/goit-markup-hw-01
+	url = https://github.com/serg-backend-developer/goit-markup-hw-01
+[submodule "html_and_css_fundamentals/goit-markup-hw-02"]
+	path = html_and_css_fundamentals/goit-markup-hw-02
+	url = https://github.com/serg-backend-developer/goit-markup-hw-02
+[submodule "html_and_css_fundamentals/goit-markup-hw-03"]
+	path = html_and_css_fundamentals/goit-markup-hw-03
+	url = https://github.com/serg-backend-developer/goit-markup-hw-03
+[submodule "html_and_css_fundamentals/goit-markup-hw-04"]
+	path = html_and_css_fundamentals/goit-markup-hw-04
+	url = https://github.com/serg-backend-developer/goit-markup-hw-04
+[submodule "html_and_css_fundamentals/goit-markup-hw-05"]
+	path = html_and_css_fundamentals/goit-markup-hw-05
+	url = https://github.com/serg-backend-developer/goit-markup-hw-05
+[submodule "html_and_css_fundamentals/goit-markup-hw-06"]
+	path = html_and_css_fundamentals/goit-markup-hw-06
+	url = https://github.com/serg-backend-developer/goit-markup-hw-06
