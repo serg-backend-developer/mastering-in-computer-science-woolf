@@ -196,3 +196,6 @@
 [submodule "design_and_analysis_of_algorithms/goit-algo2-hw-10"]
 	path = design_and_analysis_of_algorithms/goit-algo2-hw-10
 	url = https://github.com/serg-backend-developer/goit-algo2-hw-10
+[submodule "fullstack_backend_development_with_nodejs/goit-node-cli"]
+	path = fullstack_backend_development_with_nodejs/goit-node-cli
+	url = https://github.com/serg-backend-developer/goit-node-cli
