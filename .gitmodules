@@ -199,3 +199,6 @@
 [submodule "fullstack_backend_development_with_nodejs/goit-node-cli"]
 	path = fullstack_backend_development_with_nodejs/goit-node-cli
 	url = https://github.com/serg-backend-developer/goit-node-cli
+[submodule "fullstack_backend_development_with_nodejs/goit-node-rest-api"]
+	path = fullstack_backend_development_with_nodejs/goit-node-rest-api
+	url = https://github.com/serg-backend-developer/goit-node-rest-api
