@@ -202,3 +202,9 @@
 [submodule "fullstack_backend_development_with_nodejs/goit-node-rest-api"]
 	path = fullstack_backend_development_with_nodejs/goit-node-rest-api
 	url = https://github.com/serg-backend-developer/goit-node-rest-api
+[submodule "fullstack_backend_development_with_nodejs/final-project-nodejs-react-modules-backend"]
+	path = fullstack_backend_development_with_nodejs/final-project-nodejs-react-modules-backend
+	url = https://github.com/serg-backend-developer/final-project-nodejs-react-modules-backend
+[submodule "fullstack_backend_development_with_nodejs/final-project-nodejs-react-modules-frontend"]
+	path = fullstack_backend_development_with_nodejs/final-project-nodejs-react-modules-frontend
+	url = https://github.com/serg-backend-developer/final-project-nodejs-react-modules-frontend
